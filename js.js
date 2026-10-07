@@ -1,0 +1,1 @@
+alert('hello form new git file for today')
